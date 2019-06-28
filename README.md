@@ -2,4 +2,4 @@
 
 SpringBoot + thymeleaf
 
-联系Demo
+练习Demo
