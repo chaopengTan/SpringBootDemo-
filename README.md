@@ -1,5 +1,5 @@
 # SpringBootDemo-
 
-SpringBoot + thymeleaf
+SpringBoot + thymeleaf + jpa  + mysql
 
 练习Demo
