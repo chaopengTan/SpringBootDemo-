@@ -17,7 +17,8 @@ dependencies {
     implementation 'org.springframework.boot:spring-boot-starter-web'
     implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'//类似jsp的模板
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'//数据持久框架
-    implementation 'mysql:mysql-connector-java:6.0.5' //数据库链连接驱动
+//    implementation 'mysql:mysql-connector-java:6.0.5' //数据库链连接驱动
+    implementation 'mysql:mysql-connector-java:8.0.11' //数据库链连接驱动
     runtime('com.h2database:h2:1.4.193') //内嵌数据库
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
 
